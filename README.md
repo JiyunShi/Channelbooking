@@ -13,7 +13,7 @@ The website is write in PHP, using database mySQL, and deployed on MAMP.
 
 3. copy public folder to MAMP/htdocs
 
-4. start MAMP server and open localhost/public/channelLogin.php
+4. start MAMP server and open localhost:8888/public/channelLogin.php
 
 
 ## Contact
