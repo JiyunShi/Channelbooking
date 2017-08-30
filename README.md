@@ -1,20 +1,17 @@
 # Online Channel Booking system 
 This is a pratice project for PHP / mySQL study.
-user could login, search channels, book and review channels, and proceed to payment through this web page. 
+Enable user to sign up/login, search channels; add, book or review new channels and proceed to payment. 
 
-The website is write in PHP, using database mySQL, and deployed on MAMP. 
-
-## Instructions
+## Get Started
 
 
-1. install MAMP
+1. install MAMP on Mac or WAMP on Windows
 
-2. copy channelwatchdb folder to the database folder MAMP/db/mysql
+2. Clone the repository, copy folder "public" to MAMP/WAMP host folder, copy folder channelwatch db to MAMP/WAMP sql database folder
 
-3. copy public folder to MAMP/htdocs
-
-4. start MAMP server and open localhost:8888/public/channelLogin.php
+3. Start MAMP/WAMP server and open the file channelLogin.php
 
 
-## Contact
-You can reach me through [my email address](mailto:brightnk@outlook.com). 
+## Author
+
+* **Joey Shi** - *Initial work* - [Jiyun](https://github.com/JiyunShi)
