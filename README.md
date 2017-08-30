@@ -7,7 +7,7 @@ Enable user to sign up/login, search channels; add, book or review new channels 
 
 1. install MAMP on Mac or WAMP on Windows
 
-2. Clone the repository, copy folder "public" to MAMP/WAMP host folder, copy folder channelwatch db to MAMP/WAMP sql database folder
+2. Clone the repository, copy folder "public" to MAMP/WAMP host folder, copy folder "channelwatchdb" to MAMP/WAMP sql database folder
 
 3. Start MAMP/WAMP server and open the file channelLogin.php
 
